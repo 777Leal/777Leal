@@ -1,4 +1,4 @@
-<!-- README.md | FUTURE / CYBERPUNK 2077 STYLE -->
+<!-- README.md | FUTURE / CYBER STYLE -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=GUSTAVO+LEAL;SOFTWARE+ENGINEERING;CLOUD+%7C+AI+%7C+AUTOMATION" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f7ff?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/PROFILE-CYBERPUNK-ff00ff?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/PROFILE-CYBER-ff00ff?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 ---
@@ -39,15 +39,16 @@ DESIGN       ████████████████░░░ 75%
 
 ---
 
-## SYSTEM STATS
+## SYSTEM DASHBOARD
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
 </p>
 
 ---
@@ -58,14 +59,6 @@ DESIGN       ████████████████░░░ 75%
   <a href="https://www.linkedin.com/in/leal9gustavo/">
     <img src="https://img.shields.io/badge/LINKEDIN-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-</p>
-
----
-
-## VISIBILITY
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
