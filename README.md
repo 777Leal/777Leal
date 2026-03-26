@@ -56,16 +56,6 @@ DESIGN       ████████████████░░░ 75%
 
 ---
 
-## PROJECT DIRECTION
-
-```text
-> Building solutions focused on performance, automation and scalability
-> Applying software engineering principles with real-world impact
-> Continuous evolution towards Cloud + AI integration
-```
-
----
-
 ## NETWORK
 
 <p align="center">
@@ -82,7 +72,7 @@ DESIGN       ████████████████░░░ 75%
 ## DIRECTIVE
 
 ```diff
-+ "Code is leverage. Systems define power. Build accordingly."
++ "Technology exists to amplify time, automate effort, and unlock a new era — driven by Cloud, AI, and Software Engineering."
 ```
 
 ---
